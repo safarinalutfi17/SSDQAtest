@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Register,Chrome 120.0.0.0,,,24-01-2024 02:58:56,24-01-2024 02:59:56,"59,637s",PASSED
+,,,,,,,
+Test Cases/Register/Register - Sucess,Chrome 120.0.0.0,,,24-01-2024 02:58:56,24-01-2024 02:59:04,"7,781s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:58:57,24-01-2024 02:58:59,"2,733s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:58:59,24-01-2024 02:59:00,"0,501s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:00,24-01-2024 02:59:01,"0,802s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab""), ""safarina lutfiyya"")",Chrome 120.0.0.0,,,24-01-2024 02:59:01,24-01-2024 02:59:01,"0,899s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1""), ""safarina01"")",Chrome 120.0.0.0,,,24-01-2024 02:59:01,24-01-2024 02:59:02,"0,708s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2""), ""safarinalutfi01"")",Chrome 120.0.0.0,,,24-01-2024 02:59:02,24-01-2024 02:59:03,"0,721s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2_3""), ""safarinalutfi01"")",Chrome 120.0.0.0,,,24-01-2024 02:59:03,24-01-2024 02:59:04,"0,726s",PASSED
+"click(findTestObject(""Object Repository/Page_Register/button_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:04,24-01-2024 02:59:04,"0,385s",PASSED
+,,,,,,,
+Test Cases/Register/Register - Required field fill blank,Chrome 120.0.0.0,,,24-01-2024 02:59:04,24-01-2024 02:59:38,"33,742s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:59:04,24-01-2024 02:59:06,"1,460s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:59:06,24-01-2024 02:59:06,"0,467s",PASSED
+"click(findTestObject(""Object Repository/Page_Register/button_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:06,24-01-2024 02:59:38,"31,685s",PASSED
+,,,,,,,
+Test Cases/Register/Register - Required field fill with space,Chrome 120.0.0.0,,,24-01-2024 02:59:38,24-01-2024 02:59:44,"6,006s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:59:38,24-01-2024 02:59:39,"1,443s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:59:39,24-01-2024 02:59:40,"0,535s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:40,24-01-2024 02:59:41,"0,669s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab""), "" "")",Chrome 120.0.0.0,,,24-01-2024 02:59:41,24-01-2024 02:59:41,"0,802s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1""), "" "")",Chrome 120.0.0.0,,,24-01-2024 02:59:41,24-01-2024 02:59:42,"0,652s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2""), "" "")",Chrome 120.0.0.0,,,24-01-2024 02:59:42,24-01-2024 02:59:43,"0,692s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2_3""), "" "")",Chrome 120.0.0.0,,,24-01-2024 02:59:43,24-01-2024 02:59:43,"0,696s",PASSED
+"click(findTestObject(""Object Repository/Page_Register/button_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:43,24-01-2024 02:59:44,"0,379s",PASSED
+,,,,,,,
+Test Cases/Register/Register - Name contains special characters,Chrome 120.0.0.0,,Negative,24-01-2024 02:59:44,24-01-2024 02:59:50,"5,903s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:59:44,24-01-2024 02:59:45,"1,400s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:59:45,24-01-2024 02:59:46,"0,444s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:46,24-01-2024 02:59:46,"0,661s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab""), ""safarina lutfi01:&"")",Chrome 120.0.0.0,,,24-01-2024 02:59:46,24-01-2024 02:59:47,"0,877s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1""), ""safarinalutfi"")",Chrome 120.0.0.0,,,24-01-2024 02:59:47,24-01-2024 02:59:48,"0,673s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2""), ""safarina01"")",Chrome 120.0.0.0,,,24-01-2024 02:59:48,24-01-2024 02:59:49,"0,697s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2_3""), ""safarina01"")",Chrome 120.0.0.0,,,24-01-2024 02:59:49,24-01-2024 02:59:49,"0,677s",PASSED
+"click(findTestObject(""Object Repository/Page_Register/button_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:49,24-01-2024 02:59:50,"0,361s",PASSED
+,,,,,,,
+Test Cases/Register/Register - Password doesnt match with confirm password,Chrome 120.0.0.0,,,24-01-2024 02:59:50,24-01-2024 02:59:56,"5,920s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:59:50,24-01-2024 02:59:51,"1,269s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:59:51,24-01-2024 02:59:52,"0,504s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:52,24-01-2024 02:59:52,"0,707s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab""), ""safarina lutfi"")",Chrome 120.0.0.0,,,24-01-2024 02:59:52,24-01-2024 02:59:53,"0,859s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1""), ""safarina01"")",Chrome 120.0.0.0,,,24-01-2024 02:59:53,24-01-2024 02:59:54,"0,694s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2""), ""safarina01"")",Chrome 120.0.0.0,,,24-01-2024 02:59:54,24-01-2024 02:59:55,"0,680s",PASSED
+"setText(findTestObject(""Object Repository/Page_Register/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2_3""), ""safarina02"")",Chrome 120.0.0.0,,,24-01-2024 02:59:55,24-01-2024 02:59:55,"0,686s",PASSED
+"click(findTestObject(""Object Repository/Page_Register/button_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:59:55,24-01-2024 02:59:56,"0,388s",PASSED

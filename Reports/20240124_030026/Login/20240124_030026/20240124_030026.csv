@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 120.0.0.0,,,24-01-2024 03:00:31,24-01-2024 03:00:41,"9,806s",PASSED
+,,,,,,,
+Test Cases/Login/Login - Sucess,Chrome 120.0.0.0,,,24-01-2024 03:00:32,24-01-2024 03:00:37,"5,467s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 03:00:32,24-01-2024 03:00:34,"2,353s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 03:00:34,24-01-2024 03:00:35,"0,595s",PASSED
+"setText(findTestObject(""Object Repository/Page_Login Page/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab""), ""safarina01"")",Chrome 120.0.0.0,,,24-01-2024 03:00:35,24-01-2024 03:00:36,"1,002s",PASSED
+"setText(findTestObject(""Object Repository/Page_Login Page/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1""), ""safarinalutfi01"")",Chrome 120.0.0.0,,,24-01-2024 03:00:36,24-01-2024 03:00:37,"0,712s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/button_Login""))",Chrome 120.0.0.0,,,24-01-2024 03:00:37,24-01-2024 03:00:37,"0,448s",PASSED
+,,,,,,,
+Test Cases/Login/Login - Unregistered username,Chrome 120.0.0.0,,,24-01-2024 03:00:37,24-01-2024 03:00:41,"4,085s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 03:00:37,24-01-2024 03:00:39,"1,412s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 03:00:39,24-01-2024 03:00:39,"0,469s",PASSED
+"setText(findTestObject(""Object Repository/Page_Login Page/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab""), ""safarina02"")",Chrome 120.0.0.0,,,24-01-2024 03:00:39,24-01-2024 03:00:40,"0,999s",PASSED
+"setText(findTestObject(""Object Repository/Page_Login Page/input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1""), ""safarinalutfi02"")",Chrome 120.0.0.0,,,24-01-2024 03:00:40,24-01-2024 03:00:41,"0,686s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/button_Login""))",Chrome 120.0.0.0,,,24-01-2024 03:00:41,24-01-2024 03:00:41,"0,381s",PASSED

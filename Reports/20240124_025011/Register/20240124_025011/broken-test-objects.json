@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Register/button_Register",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/main/form/section/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240124_025011/Register/20240124_025011/Object Repository/Page_Register/button_Register_position.png"
+    }
+  ]
+}

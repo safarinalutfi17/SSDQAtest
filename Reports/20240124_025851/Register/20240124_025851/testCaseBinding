@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/Register/Register - Sucess","testCaseId":"Test Cases/Register/Register - Sucess","iterationVariableName":""}
+{"testCaseName":"Test Cases/Register/Register - Required field fill blank","testCaseId":"Test Cases/Register/Register - Required field fill blank","iterationVariableName":""}
+{"testCaseName":"Test Cases/Register/Register - Required field fill with space","testCaseId":"Test Cases/Register/Register - Required field fill with space","iterationVariableName":""}
+{"testCaseName":"Test Cases/Register/Register - Name contains special characters","testCaseId":"Test Cases/Register/Register - Name contains special characters","iterationVariableName":""}
+{"testCaseName":"Test Cases/Register/Register - Password doesnt match with confirm password","testCaseId":"Test Cases/Register/Register - Password doesnt match with confirm password","iterationVariableName":""}
