@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register - Name contains special characters</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>ecf18ca8-e200-4dbf-b0a6-ee3fb2a8889f</testCaseGuid>
+</TestCaseEntity>
