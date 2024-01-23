@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1</name>
+   <tag></tag>
+   <elementGuidId>58ea11e1-38c6-4c91-b49c-41d2e87d13e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dde6ea0a-0b85-4231-8526-e25c8962039f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>102f6a77-d4f2-4b2d-b99a-f3986a810dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Type your password</value>
+      <webElementGuid>7fd4ecd9-f3da-4691-9ef8-ce2cb1925406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block px-2 py-3 mt-2 h-[52px] rounded-lg w-full font-semibold border border-base-500 text-primary focus:outline-none focus:border-primary-variant focus:ring-1 focus:ring-primary-variant</value>
+      <webElementGuid>1420ffcc-8e1b-48a1-9020-a080eb705f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen flex-col items-center justify-center py-2 bg-gradient-to-br from-[#51A1E5] to-[#3D2973]&quot;]/main[@class=&quot;flex w-full flex-1 flex-col items-center justify-center px-20 text-center&quot;]/section[@class=&quot;bg-white rounded-xl p-5 my-4 w-[500px] mt-7&quot;]/div[@class=&quot;mb-5&quot;]/input[@class=&quot;block px-2 py-3 mt-2 h-[52px] rounded-lg w-full font-semibold border border-base-500 text-primary focus:outline-none focus:border-primary-variant focus:ring-1 focus:ring-primary-variant&quot;]</value>
+      <webElementGuid>27b89309-41ff-4801-8e6e-f11a5a75683e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>ded58f40-3b27-4140-8f45-12b7b86ad1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/div[2]/input</value>
+      <webElementGuid>f9ac039d-0a1f-4394-84e2-27f1297b8ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>d25868cf-4337-4eb5-8052-19dc488722ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Type your password']</value>
+      <webElementGuid>5cbacb1a-906d-4cb6-988a-832569d64d7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

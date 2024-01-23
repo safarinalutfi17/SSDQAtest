@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_block px-2 py-3 mt-2 h-52px rounded-l_5154ab_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>a1dd8c6c-6e01-4f9d-9780-e914389c1012</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1af9f391-36bc-4f69-9165-25ae861eedeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1ee9d02c-ad3a-4de4-aa14-83bb1e3a49b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Confirm Password</value>
+      <webElementGuid>6c50e6c1-cfad-4ca6-b98f-0c194639f415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block px-2 py-3 mt-2 h-[52px] rounded-lg w-full font-semibold border border-base-500 text-primary focus:outline-none focus:border-primary-variant focus:ring-1 focus:ring-primary-variant</value>
+      <webElementGuid>a0b2259e-3d84-4048-a4e1-3303f1a488dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen flex-col items-center justify-center py-2 bg-gradient-to-br from-[#51A1E5] to-[#3D2973]&quot;]/main[@class=&quot;flex w-full flex-1 flex-col items-center justify-center px-20 text-center&quot;]/form[1]/section[@class=&quot;bg-white rounded-xl p-5 my-4 w-[500px] mt-7&quot;]/div[@class=&quot;mb-5&quot;]/input[@class=&quot;block px-2 py-3 mt-2 h-[52px] rounded-lg w-full font-semibold border border-base-500 text-primary focus:outline-none focus:border-primary-variant focus:ring-1 focus:ring-primary-variant&quot;]</value>
+      <webElementGuid>2817ad9b-a065-4ba7-b6fa-a3d12f46fc0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>4aae4eda-c111-413e-b0d9-c280181051ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/form/section/div[4]/input</value>
+      <webElementGuid>ff57901e-5795-4ba1-ba34-cc175deebc39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>fe64aa81-7be5-4dae-b85a-5006dd14a507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Confirm Password']</value>
+      <webElementGuid>7c31907f-a986-4184-bbca-90dcde16f56e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

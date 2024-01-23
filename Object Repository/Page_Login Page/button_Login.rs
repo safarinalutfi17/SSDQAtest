@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>605121d8-67d1-4265-9066-8a3d43758b6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>233fcb40-8ea5-4e64-b78a-de22cd3a413c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uppercase w-full font-bold py-3 rounded-full transition duration-500 ease-in-out text-white bg-gradient-to-br from-[#a02b65] to-[#f39e2f] hover:opacity-90</value>
+      <webElementGuid>2b597048-1bbd-4d11-86a6-db4544f90d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>cf60f380-d786-479c-ac6e-77835373b149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen flex-col items-center justify-center py-2 bg-gradient-to-br from-[#51A1E5] to-[#3D2973]&quot;]/main[@class=&quot;flex w-full flex-1 flex-col items-center justify-center px-20 text-center&quot;]/section[@class=&quot;bg-white rounded-xl p-5 my-4 w-[500px] mt-7&quot;]/button[@class=&quot;uppercase w-full font-bold py-3 rounded-full transition duration-500 ease-in-out text-white bg-gradient-to-br from-[#a02b65] to-[#f39e2f] hover:opacity-90&quot;]</value>
+      <webElementGuid>0c38cdef-dd65-44db-868c-5ecc021ec49e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/button</value>
+      <webElementGuid>88c23777-e427-47d5-9f35-ae6c73cb3774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3723dd5e-68a8-49b0-aa68-9a96a1153d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>9244b174-1e95-4cf5-9be1-78855601cb36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

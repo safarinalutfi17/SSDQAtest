@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Register</name>
+   <tag></tag>
+   <elementGuidId>ffdd6761-5aff-4783-8996-8f9b4725529c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/form/section/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37aca867-a0fc-4eca-8cb8-e55112ac7be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uppercase w-full font-bold py-3 rounded-full transition duration-500 ease-in-out bg-gradient-to-br text-white from-[#a02b65] to-[#f39e2f] hover:opacity-90</value>
+      <webElementGuid>63bac709-216f-440f-a306-1412d7d3e52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>65f56889-a739-4eb4-aff6-351be52b2469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen flex-col items-center justify-center py-2 bg-gradient-to-br from-[#51A1E5] to-[#3D2973]&quot;]/main[@class=&quot;flex w-full flex-1 flex-col items-center justify-center px-20 text-center&quot;]/form[1]/section[@class=&quot;bg-white rounded-xl p-5 my-4 w-[500px] mt-7&quot;]/button[@class=&quot;uppercase w-full font-bold py-3 rounded-full transition duration-500 ease-in-out bg-gradient-to-br text-white from-[#a02b65] to-[#f39e2f] hover:opacity-90&quot;]</value>
+      <webElementGuid>4cbe74eb-70dc-422b-89d9-6a12acd86675</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/form/section/button</value>
+      <webElementGuid>b3e2c8d0-48f0-48ee-b40c-614fb4c6e268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>182e1347-2cf2-4f26-a0bc-99d075e9e4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>3e4c27b4-ac94-4642-9925-685acefa5310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lihat katalog</name>
+   <tag></tag>
+   <elementGuidId>67223dfe-9cca-42c2-9abb-a56b094490fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4e098b3c-2396-4ac8-8b17-e4617e8c2d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[200px] uppercase font-bold py-3 rounded-full mt-7 mr-5 transition duration-500 ease-in-out text-white bg-green-900 hover:bg-white hover:text-green-600</value>
+      <webElementGuid>efba74a2-1130-43ec-ad87-96cb7c06fd14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat katalog</value>
+      <webElementGuid>80a8f0e7-91bb-4c35-a7d2-cae4ce46d27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen flex-col items-center justify-center py-2 bg-gradient-to-br from-[#51A1E5] to-[#3D2973]&quot;]/main[@class=&quot;flex w-full flex-1 flex-col items-center justify-center px-20 text-center&quot;]/div[1]/a[1]/button[@class=&quot;w-[200px] uppercase font-bold py-3 rounded-full mt-7 mr-5 transition duration-500 ease-in-out text-white bg-green-900 hover:bg-white hover:text-green-600&quot;]</value>
+      <webElementGuid>3ec0c308-9604-484a-aaff-077f072d34fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/a/button</value>
+      <webElementGuid>3f25c830-e00a-4dd3-a700-f81654cfc420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>4e5e40c1-383c-45e7-9abe-cb0a4df94970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lihat katalog' or . = 'Lihat katalog')]</value>
+      <webElementGuid>4be3c470-9897-4197-9888-edddd46df210</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

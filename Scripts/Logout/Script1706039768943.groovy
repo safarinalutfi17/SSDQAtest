@@ -44,5 +44,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Login Page/input_block px-2
 
 WebUI.click(findTestObject('Object Repository/Page_Login Page/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Lihat katalog'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Log Out'))
+
+WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Log Out'))
 

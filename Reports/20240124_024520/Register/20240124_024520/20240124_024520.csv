@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Register,Chrome 120.0.0.0,,,24-01-2024 02:45:27,24-01-2024 02:46:24,"57,248s",FAILED
+,,,,,,,
+Test Cases/Register/Register - Sucess,Chrome 120.0.0.0,,,24-01-2024 02:45:37,24-01-2024 02:45:40,"2,779s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:45:37,24-01-2024 02:45:39,"1,559s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:45:39,24-01-2024 02:45:40,"0,568s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:45:40,24-01-2024 02:45:40,"0,612s",FAILED
+,,,,,,,
+Test Cases/Register/Register - Required field fill blank,Chrome 120.0.0.0,,,24-01-2024 02:45:48,24-01-2024 02:45:50,"2,523s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:45:48,24-01-2024 02:45:50,"1,569s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:45:50,24-01-2024 02:45:50,"0,385s",PASSED
+"click(findTestObject(""Object Repository/Page_Register/button_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:45:50,24-01-2024 02:45:50,"0,545s",FAILED
+,,,,,,,
+Test Cases/Register/Register - Required field fill with space,Chrome 120.0.0.0,,,24-01-2024 02:45:59,24-01-2024 02:46:01,"2,768s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:45:59,24-01-2024 02:46:00,"1,586s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:46:00,24-01-2024 02:46:01,"0,600s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:46:01,24-01-2024 02:46:01,"0,562s",FAILED
+,,,,,,,
+Test Cases/Register/Register - Name contains special characters,Chrome 120.0.0.0,,Negative,24-01-2024 02:46:10,24-01-2024 02:46:13,"2,577s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:46:10,24-01-2024 02:46:12,"1,522s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:46:12,24-01-2024 02:46:12,"0,397s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:46:12,24-01-2024 02:46:13,"0,635s",FAILED
+,,,,,,,
+Test Cases/Register/Register - Password doesnt match with confirm password,Chrome 120.0.0.0,,,24-01-2024 02:46:21,24-01-2024 02:46:24,"2,774s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,24-01-2024 02:46:21,24-01-2024 02:46:23,"1,490s",PASSED
+"navigateToUrl(""https://qa-interview-test-1.vercel.app/"")",Chrome 120.0.0.0,,,24-01-2024 02:46:23,24-01-2024 02:46:23,"0,674s",PASSED
+"click(findTestObject(""Object Repository/Page_Login Page/a_Register""))",Chrome 120.0.0.0,,,24-01-2024 02:46:23,24-01-2024 02:46:24,"0,591s",FAILED
